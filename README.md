@@ -1,7 +1,14 @@
 ### About
 
-I am a molecular biologist and bacterial synthetic biologist by training. Firm believer in computer literacy and automation, and code from time to time for my research (Python) and for vounteering work at [iDEC](https://idec.io) (HTML, CSS and a bit of Django, limited Vanilla JS). Enjoy learning and problem solving by DIY (code or 3D designs), and hence some repositories here are my collections of fixes to trivial but irratating issues in everyday work.
+Molecular biologist and bacterial synthetic biologist by training.  
+  
+Firm believer in computer literacy and automation, and code from time to time for my research (Python) and for vounteering work at [iDEC](https://idec.io) (HTML, CSS and a bit of Django, limited Vanilla JS).  
+  
+Enjoy learning and problem solving by DIY (programming or 3D CAD and printing), and hence some repositories here showcase my fixes to trivial but irratating issues in everyday work.
 
+### Contact
+
+If I can be of any help, please don't hesitate to drop me an [email](mailto:trevor.y.h.ho@gmail.com).
 <!--
 **tyhho/tyhho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
