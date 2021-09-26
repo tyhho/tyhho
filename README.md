@@ -6,7 +6,7 @@ Firm believer in computer literacy and automation, and code from time to time fo
   
 Enjoy learning and problem solving by DIY (programming, 3D CAD and 3D printing), and hence some repositories here showcase my fixes to trivial but irratating issues in everyday work.  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyhho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyhho&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### Contact
 
